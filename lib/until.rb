@@ -1,4 +1,4 @@
-def using_while
+def using_until
   levitation_force = 6
   until levitation_force == 10
   puts "Wingardium Leviosa"
@@ -6,5 +6,5 @@ def using_while
   end
 end
 
-using_while
+using_until
 
